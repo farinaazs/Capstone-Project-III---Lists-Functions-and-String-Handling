@@ -1,0 +1,173 @@
+
+                User Overview                 
+_______________________________________________
+The total number of Users are: 24
+The total number of Tasks are: 37
+
+User                           : admin                        
+Number of Tasks Assigned       : 3
+Percentage of Assigned Tasks   : 8.8%
+Percentage of Completed Tasks  : 66.7%
+Percentage of Incomplete Tasks : 50.0%
+Percentage of Overdue Tasks    : 50.0%
+
+User                           : thor                        
+Number of Tasks Assigned       : 0
+Percentage of Assigned Tasks   : 0.0%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 0%
+Percentage of Overdue Tasks    : 0%
+
+User                           : peter                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 100.0%
+Percentage of Incomplete Tasks : 0%
+Percentage of Overdue Tasks    : 0%
+
+User                           : jacky                        
+Number of Tasks Assigned       : 2
+Percentage of Assigned Tasks   : 5.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 50.0%
+
+User                           : captain                        
+Number of Tasks Assigned       : 3
+Percentage of Assigned Tasks   : 8.8%
+Percentage of Completed Tasks  : 100.0%
+Percentage of Incomplete Tasks : 66.7%
+Percentage of Overdue Tasks    : 66.7%
+
+User                           : doctor                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : spider                        
+Number of Tasks Assigned       : 2
+Percentage of Assigned Tasks   : 5.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 50.0%
+
+User                           : black                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : hulk                        
+Number of Tasks Assigned       : 3
+Percentage of Assigned Tasks   : 8.8%
+Percentage of Completed Tasks  : 50.0%
+Percentage of Incomplete Tasks : 66.7%
+Percentage of Overdue Tasks    : 66.7%
+
+User                           : tony                        
+Number of Tasks Assigned       : 2
+Percentage of Assigned Tasks   : 5.9%
+Percentage of Completed Tasks  : 100.0%
+Percentage of Incomplete Tasks : 50.0%
+Percentage of Overdue Tasks    : 50.0%
+
+User                           : batman                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 100.0%
+Percentage of Incomplete Tasks : 0%
+Percentage of Overdue Tasks    : 0%
+
+User                           : wonder                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 100.0%
+Percentage of Incomplete Tasks : 0%
+Percentage of Overdue Tasks    : 0%
+
+User                           : chucky                        
+Number of Tasks Assigned       : 2
+Percentage of Assigned Tasks   : 5.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : harry                        
+Number of Tasks Assigned       : 2
+Percentage of Assigned Tasks   : 5.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : lilo                        
+Number of Tasks Assigned       : 3
+Percentage of Assigned Tasks   : 8.8%
+Percentage of Completed Tasks  : 100.0%
+Percentage of Incomplete Tasks : 33.3%
+Percentage of Overdue Tasks    : 33.3%
+
+User                           : vin                        
+Number of Tasks Assigned       : 3
+Percentage of Assigned Tasks   : 8.8%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : happy                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : little                        
+Number of Tasks Assigned       : 2
+Percentage of Assigned Tasks   : 5.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : snow                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : beauty                        
+Number of Tasks Assigned       : 1
+Percentage of Assigned Tasks   : 2.9%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 100.0%
+Percentage of Overdue Tasks    : 100.0%
+
+User                           : bruce                        
+Number of Tasks Assigned       : 0
+Percentage of Assigned Tasks   : 0.0%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 0%
+Percentage of Overdue Tasks    : 0%
+
+User                           : billy                        
+Number of Tasks Assigned       : 2
+Percentage of Assigned Tasks   : 5.9%
+Percentage of Completed Tasks  : 100.0%
+Percentage of Incomplete Tasks : 50.0%
+Percentage of Overdue Tasks    : 0%
+
+User                           : barbie                        
+Number of Tasks Assigned       : 0
+Percentage of Assigned Tasks   : 0.0%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 0%
+Percentage of Overdue Tasks    : 0%
+
+User                           : finding                        
+Number of Tasks Assigned       : 0
+Percentage of Assigned Tasks   : 0.0%
+Percentage of Completed Tasks  : 0%
+Percentage of Incomplete Tasks : 0%
+Percentage of Overdue Tasks    : 0%

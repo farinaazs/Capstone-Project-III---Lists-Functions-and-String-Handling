@@ -1,0 +1,37 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2019-10-10, 2019-10-20, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 2019-10-10, 2019-10-25, No
+black, Test 1, Test again, 2023-06-17, 2023-06-20, No
+hulk, Test 5, testing editor description, 2023-06-17, 2023-06-30, No
+jacky, Test 2, Test again, 2023-07-01, 2023-07-10, No
+hulk, Test 3, Test again, 2023-04-14, 2023-04-30, Yes
+peter, Test 4, Test 4 , 2023-06-10, 2023-06-30, Yes
+tony, Test date, Testing the due date entry using the datetime import library, 2023-07-04, 2023-07-15, Yes
+wonder, Test date 2, Testing due date format , 2023-07-04, 2023-07-10, Yes
+chucky, Percentage calculation, Calculating the percentage of incomplete tasks vs completed tasks, 2023-07-04, 2023-07-06, No
+spider, Number of tasks per user, Generating a report displaying the total number of tasks per user, 2023-07-04, 2023-07-17, No
+billy, Adding task, Tst, 2023-07-04, 2023-07-30, Yes
+billy, Outstanding tasks, Calculating the tasks that are overdue, 2023-07-04, 2023-07-23, No
+chucky, Date formatting, Formatting the date for the tasks, 2023-07-04, 2023-07-05, No
+lilo, Date formatting 2, Date formatting 2 testing again, 2023-07-04, 2023-07-05, Yes
+lilo, Date format 3, Date formatting - need to remove the time, 2023-07-04, 2023-07-07, Yes
+happy, Overdue tasks, Counting the number of tasks not completed and that are overdue, 2023-07-04, 2023-07-07, No
+doctor, Testing overdue format, Still testing overdue format, 2023-07-04, 2023-07-06, No
+captain, Captain, Test, 2023-07-04, 2023-07-30, Yes
+batman, Batman, Batman, 2023-06-04, 2023-06-30, Yes
+beauty, Beauty, Beauty, 2023-06-04, 2023-06-30, No
+captain, Testing overdue, Testing overdue tasks again, 2023-06-04, 2023-06-25, No
+little, Little, Test, 2023-06-04, 2023-06-15, No
+little, Test overdue again, Testing overdue again with timedelta, 2023-06-04, 2023-06-12, No
+vin, Test overdue, Testing overdue with ==, 2023-05-04, 2023-05-30, No
+harry, Testing overdue, Testing overdue with: tasks_overdue <= datetime.timedelta(days=1), 2023-05-04, 2023-06-20, No
+vin, Test, Test overdue, 2023-05-04, 2023-05-25, No
+captain, Testing overdue again, Testing overdue again using:if i == word_no and tasks_overdue > 0: , 2023-04-04, 2023-05-05, No
+tony, Overdue tasks, Overdue tasks again: i == word_no and int(tasks_overdue) > 0, 2023-04-04, 2023-05-10, No
+jacky, Testing, Testing format, 2023-04-04, 2023-05-15, No
+harry, Test, Test, 2023-06-04, 2023-06-19, No
+vin, Test 20, Test 20, 2023-05-04, 2023-05-11, No
+spider, Test 21, Test 21, 2023-05-04, 2023-05-12, No
+hulk, Test 25, Test, 2023-04-04, 2023-05-23, No
+snow, Test 26, Test, 2023-03-04, 2023-05-24, No
+lilo, Test 27, Test again, 2023-04-04, 2023-05-01, No
+admin, Test programme, Tested programme thus far, 2023-07-04, 2023-07-04, Yes
